@@ -1,0 +1,77 @@
+"Phrases"
+{
+	"Map History"
+	{
+		"en"		"Map History"
+		"hu"		"Pályatörténet"
+	}
+
+	"Map"
+	{
+		"en"		"[Map]"
+		"hu"		"[Pálya]"
+	}
+
+	"Started"
+	{
+		"en"		"[Started]"
+		"hu"		"[Elindult]"
+	}
+
+	"Played Time"
+	{
+		"en"		"[Played Time]"
+		"hu"		"[Játszott idő]"
+	}
+
+	"Reason"
+	{
+		"en"		"[Reason for ending]"
+		"hu"		"[Váltás oka]"
+	}
+
+	"Current Map"
+	{
+		"en"		"Current Map"
+		"hu"		"Jelenlegi pálya"
+	}
+	"Pending Vote"
+	{
+		"en"		"Pending Vote"
+		"hu"		"Szavazás folyik"
+	}
+	
+	"Next Map"
+	{
+		"#format"	"{1:s}"
+		"en"		"Next Map: {1}"
+		"hu"		"Következő pálya: {1}"
+	}
+	
+	"Current Map Name"
+	{
+		"#format"	"{1:s}"
+		"en"		"The current map is {1}."
+		"hu"		"A jelenlegi pálya {1}."
+	}
+
+	"ago"
+	{
+		"en"		"ago"
+		"hu"		"ezelőtt"
+	}
+	
+	"Set next map to"
+	{
+		"#format"	"{1:s}"
+		"en"		"You've set the next map to {1}"
+		"hu"		"Beállítottad a következő pályát erre: {1}"
+	}
+	
+	"Failed to set next map"
+	{
+		"#format"	"{1:s}"
+		"en"		"Failed to set next map to {1}"
+		"hu"		"Nem lehet beállítani a következő pályát erre: {1}"
+	}
+}

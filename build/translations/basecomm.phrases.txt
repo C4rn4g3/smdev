@@ -1,0 +1,92 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"en"		"Gag/Mute player"
+		"hu"		"Geg/Némitás"
+	}
+	
+	"Choose Type"
+	{
+		"en"		"Choose Type"
+		"hu"		"Válassz Típust"
+	}
+	
+	"Gagged target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Gagged {1}."
+		"hu"		"{1} gegelve"
+	}
+	
+	"Ungagged target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Ungagged {1}."
+		"hu"		"{1} feloldva"
+	}
+	
+	"Muted target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Muted {1}."
+		"hu"		"{1} némitva"
+	}
+	
+	"Unmuted target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Unmuted {1}."
+		"hu"		"{1} feloldva"
+	}
+	
+	"Silenced target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Silenced {1}."
+		"hu"		"{1} kussoltatva"
+	}
+	
+	"Unsilenced target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Unsilenced {1}."
+		"hu"		"{1} feloldva"
+	}
+	
+	"Mute Player"
+	{
+		"en"		"Mute Player"
+		"hu"		"Játékos Némítása"
+	}
+	
+	"UnMute Player"
+	{
+		"en"		"UnMute Player"
+		"hu"		"Játékos Némítás Feloldása"
+	}
+	
+	"Gag Player"
+	{
+		"en"		"Gag Player"
+		"hu"		"Játékos Gegelése"
+	}
+	
+	"UnGag Player"
+	{
+		"en"		"UnGag Player"
+		"hu"		"Játékos Geg Feloldása"
+	}
+	
+	"Silence Player"
+	{
+		"en"			"Silence Player"
+		"hu"			"Játékos Kussoltatása"
+	}
+	
+	"UnSilence Player"
+	{
+		"en"			"UnSilence Player"
+		"hu"			"Játékos Kussoltatás Feloldása"
+	}
+}

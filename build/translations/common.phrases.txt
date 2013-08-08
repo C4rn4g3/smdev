@@ -1,0 +1,319 @@
+"Phrases"
+{
+	"Yes"
+	{
+		"en"		"Yes"
+		"hu"		"Igen"
+	}
+	
+	"No"
+	{
+		"en"		"No"
+		"hu"		"Nem"
+	}
+
+	"No matching client"
+	{
+		"en"		"No matching client was found."
+		"hu"		"Nem található megfelelő célpont."
+	}
+	
+	"No matching clients"
+	{
+		"en"		"No matching clients were found."
+		"hu"		"Nem találhatók megfelelő célpontok."
+	}
+	
+	"More than one client matches"
+	{
+		"#format"	"{1:s}"
+		"en"		"More than one client matches the pattern \"{1}\""
+		"hu"		"Több mint egy kliens felelt meg a \"{1}\" szűrőnek"
+	}
+	
+	"More than one client matched"
+	{
+		"en"		"More than one client matched the given pattern."
+		"hu"		"Több mint egy kliens felelt meg a kritériumoknak"
+	
+	}
+	
+	"Player no longer available"
+	{
+		"en"		"The player you selected is no longer available."
+		"hu"		"A kiválasztott játékos már nem elérhető"
+	}
+	
+	"Kick player"
+	{
+		"en"		"Kick player"
+		"hu"		"Játékos kirúgása"
+	}
+	
+	"Kicked by admin"
+	{
+		"en"		"Kicked by administrator"
+		"hu"		"Kirúgva az admin által"
+	}
+	
+	"Changing map"
+	{
+		"#format"	"{1:s}"
+		"en"		"Changing map to {1}..."
+		"hu"		"Pályaváltás ide: {1}..."
+	}
+	
+	"Map was not found"
+	{
+		"#format"	"{1:s}"
+		"en"		"Map {1} was not found."
+		"hu"		"{1} pálya nem található"
+	}
+	
+	"Unable to target"
+	{
+		"en"		"You cannot target this player."
+		"hu"		"A játékost nem tudod megcélozni."
+	}
+	
+	"Name"
+	{
+		"en"		"Name"
+		"hu"		"Név"
+	}
+	
+	"Access"
+	{
+		"en"		"Access"
+		"en"		"Hozzáférés"
+	}
+	
+	"See console for output"
+	{
+		"en"		"See console for output."
+		"hu"		"Nézd meg a konzolt a válaszért."
+	}
+	
+	"Cannot target bot"
+	{
+		"en"		"Unable to perform this command on a bot."
+		"hu"		"Nem lehet végrehajtani egy boton."
+	}
+	
+	"Unable to find cvar"
+	{
+		"#format"	"{1:s}"
+		"en"		"Unable to find cvar: {1}"
+		"hu"		"{1} cvar nem található"
+	}
+	
+	"No access to cvar"
+	{
+		"en"		"You do not have access to this cvar."
+		"hu"		"Nincs jogod a cvar használatához."
+	}
+	
+	"Value of cvar"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Value of cvar \"{1}\": \"{2}\""
+		"hu"		"\"{1}\" cvar értéke: \"{2}\""
+	}
+	
+	"Cvar changed"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Changed cvar \"{1}\" to \"{2}\"."
+		"hu"		"\"{1}\" cvar megváltoztatva erre: \"{2}\""
+	}
+	
+	"Config not found"
+	{
+		"#format"	"{1:s}"
+		"en"		"Config file \"{1}\" not found."
+		"hu"		"\"{1}\" beállításfájl nem található"
+	}
+	
+	"Executed config"
+	{
+		"#format"	"{1:s}"
+		"en"		"Executed config \"{1}\"."
+		"hu"		"\"{1}\" beállításfájl végrehajtva"
+	}
+	
+	"Admin cache refreshed"
+	{
+		"en"		"Admin cache has been refreshed."
+		"hu"		"Admin adatbázis frissitve."
+	}	
+	
+	"Invalid Amount"
+	{
+		"en"		"Invalid amount specified"
+		"hu"		"Érvénytelen érték lett megadva"
+	}
+
+	"Cannot be performed on dead"
+	{
+		"#format"	"{1:s}"
+		"en"		"This action cannot be performed on dead client \"{1}\""
+		"hu"		"A műveletet nem lehet halott kliensen végrehajtani \"{1}\""
+	}
+	
+	"Player has since died"
+	{
+		"en"		"Action cannot be performed, the player has since died."
+		"hu"		"A műveletet nem lehet végrehajtani, a kliens már halott."
+	}
+	
+	"Vote in Progress"
+	{
+		"en"		"A vote is already in progress."
+		"hu"		"Már fut egy szavazás."
+	}
+	
+	"Vote Not In Progress"
+	{
+		"en"		"A vote is not in progress at this time."
+		"hu"		"Nincs futó szavazás."
+	}
+	
+	"Cancelled Vote"
+	{
+		"en"		"Cancelled the vote."
+		"hu"		"Visszavontad a szavazást."
+	}
+
+	"Cancel vote"
+	{
+		"en"		"Cancel vote"
+		"hu"		"Szavazás visszavonása"
+	}
+	
+	"Vote Select"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} has chosen {2}."
+		"hu"		"{1} választása {2}."
+	}	
+	
+	"No Votes Cast"
+	{
+		"en"		"No votes were cast."
+		"hu"		"Nem volt érvényes szavazat."
+	}	
+	
+	"Vote Delay Minutes"
+	{
+		"#format"	"{1:d}"
+		"en"		"You must wait {1} minutes before starting another vote."
+		"hu"		"Várnod kell még {1} percet mielőtt új szavazást indítasz."
+	}
+	
+	"Vote Delay Seconds"
+	{
+		"#format"	"{1:d}"
+		"en"		"You must wait {1} seconds before starting another vote."
+		"hu"		"Várnod kell még {1} másodpercet mielőtt új szavazást indítasz."
+	}
+
+	"Could not connect to database"
+	{
+		"en"		"Could not connect to the database."
+		"hu"		"Nem lehet az adatbázishoz kapcsolódni."
+	}
+
+	"Failed to query database"
+	{
+		"en"		"Failed to query database."
+		"hu"		"Nem lehet az adatbázistól lekérdezni."
+	}
+
+	"Invalid SteamID specified"
+	{
+		"en"		"You have specified an invalid Steam ID (must start with 'STEAM_')."
+		"hu"		"Érvénytelen Steam azonositót adtál meg (az eleje 'STEAM_' kell, hogy legyen)."
+	}
+	
+	"Reload admins"
+	{
+		"en"		"Reload admins"
+		"hu"		"Adminok újratöltése"
+	}
+
+	"Command is in-game only"
+	{
+		"en"		"This command can only be used in-game."
+		"hu"		"Ez a parancs csak játékban használható."
+	}
+	
+	"Target must be dead"
+	{
+		"en"		"This command can only be used on dead players."
+		"hu"		"Ez a parancs csak halott játékosokon használható."
+	}
+	
+	"Target must be alive"
+	{
+		"en"		"This command can only be used on alive players."
+		"hu"		"Ez a parancs csak élő játékosokon használható."
+	}
+	
+	"Target is not in game"
+	{
+		"en"		"The given player is not fully in-game yet."
+		"hu"		"A megadott játékos még nem lépett be teljesen a játékba."
+	}
+	
+	"Cannot participate in vote"
+	{
+		"en"		"You cannot participate in this vote."
+		"hu"		"Nem vehetsz részt ezen a szavazáson."
+	}
+	
+	"Cannot change vote"
+	{
+		"en"		"You cannot change your selection for this vote."
+		"hu"		"Nem változtathatod meg a választásodat ebben a szavazásban."
+	}
+	"On"
+	{
+		"en"		"On"
+		"hu"		"Be"
+	}
+	"Off"
+	{
+		"en"		"Off"
+		"hu"		"Ki"
+	}
+	
+	"Info"
+	{
+		"en"		"Info:"
+		"hu"		"Info:"
+	}
+	
+	"Error"
+	{
+		"en"		"Error:"
+		"hu"		"Hiba:"
+	}
+	
+	"Message"
+	{	
+		"en"		"Message:"
+		"hu"		"Üzenet:"
+	}
+	
+	"Hint"
+	{
+		"en"		"Hint:"
+		"hu"		"Tipp:"
+	}
+	
+	"Advert"
+	{
+		"en"		"Advert:"
+		"hu"		"Hírdetés:"
+	}
+}

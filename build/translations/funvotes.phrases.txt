@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"Initiated Vote Gravity"
+	{
+		"en"		"Initiated a gravity vote."
+		"hu"		"Gravitació szavazás indítva."
+	}	
+	
+	"Initiated Vote Burn"
+	{
+		"#format"	"{1:s}"
+		"en"		"Initiated a burn vote against {1}."
+		"hu"		"Égetés szavazás indítva {1} ellen."
+	}
+	
+	"Initiated Vote Slay"
+	{
+		"#format"	"{1:s}"
+		"en"		"Initiated a slay vote against {1}."
+		"hu"		"Levágás szavazás indítva {1} ellen."
+	}
+	
+	"Initiated Vote Alltalk"
+	{
+		"en"		"Initiated an alltalk vote."
+		"hu"		"Alltalk szavazás indítva."
+	}
+	
+	"Initiated Vote FF"
+	{
+		"en"		"Initiated a friendly fire vote."
+		"hu"		"Baráti Tűz szavazás indítva."
+	}	
+	
+	"Gravity Vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Gravity vote: {1}"
+		"hu"		"Gravitáció szavazás: {1}"
+	}
+	
+	"Change Gravity To"
+	{
+		"#format"	"{1:s}"
+		"en"		"Change gravity to {1}?"
+		"hu"		"Megváltozzon a gravitáció erre: {1}?"
+	}	
+
+	"Voteburn player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Burn player {1}?"
+		"hu"		"{1} megégetése?"
+	}
+	
+	"Voteslay Player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Slay {1}?"
+		"hu"		"{1} levágása?"
+	}
+	
+	"Votealltalk Off"
+	{
+		"#format"	"{1:s}"
+		"en"		"Turn alltalk off? {1}"
+		"hu"		"Kikapcsoljuk az Alltalk-ot? {1}"
+	}
+	
+	"Votealltalk On"
+	{
+		"#format"	"{1:s}"
+		"en"		"Turn alltalk on? {1}"
+		"hu"		"Bekapcsoljuk az Alltalk-ot? {1}"
+	}	
+	
+	"Voteff Off"
+	{
+		"#format"	"{1:s}"
+		"en"		"Turn friendly fire off? {1}"
+		"hu"		"Kikapcsoljuk a Baráti Tűzt? {1}"
+	}
+	
+	"Voteff On"
+	{
+		"#format"	"{1:s}"
+		"en"		"Turn friendly fire on? {1}"
+		"hu"		"Bekapcsoljuk a Baráti Tűzt? {1}"
+	}
+	
+	"Gravity vote"
+	{
+		"en"		"Gravity vote"
+		"hu"		"Gravitáció szavazás"
+	}
+	
+	"Vote FF"
+	{
+		"en"		"Vote FF"
+		"hu"		"Baráti Tűz szavazás"
+	}
+	
+	"Burn vote"
+	{
+		"en"		"Burn vote"
+		"hu"		"Égetés szavazás"
+	}
+	
+	"Alltalk vote"
+	{
+		"en"		"Alltalk vote"
+		"hu"		"Alltalk szavazás"
+	}
+	
+	"Slay vote"
+	{
+		"en"		"Slay vote"
+		"hu"		"Levágás szavazás"
+	}
+
+	"Slayed player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Slayed player '{1}'"
+	}
+}
+

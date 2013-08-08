@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"Initiate Vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Initiated a vote: {1}"
+		"hu"		"Szavazás inditása: {1}"
+	}
+	
+	"Initiated Vote Map"
+	{
+		"en"		"Initiated a map vote."
+		"hu"		"Pályaszavazás inditása"
+	}	
+	
+	"Initiated Vote Kick"
+	{
+		"#format"	"{1:s}"
+		"en"		"Initiated a kick vote against {1}."
+		"hu"		"Szavazást indítottál {1} kirúgására."
+	}
+	
+	"Initiated Vote Ban"
+	{
+		"#format"	"{1:s}"
+		"en"		"Initiated a ban vote against {1}."
+		"hu"		"Szavazást indítottál {1} kitiltására."
+	}
+	
+	"Map Vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Map Vote: {1}"
+		"hu"		"Pályaszavazás: {1}"
+	}
+
+	"Map Vote In Use"
+	{
+		"en"		"Another admin is currently using the map vote menu."
+		"hu"		"Egy másik admin épp használja a pályaszavazó menüt."
+	}
+	
+	"Change Map To"
+	{
+		"#format"	"{1:s}"
+		"en"		"Change map to {1}?"
+		"hu"		"Elváltsunk {1} pályára?"
+	}	
+
+	"Votekick Player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Kick {1}?"
+		"hu"		"Kirúgjuk {1}-t?"
+	}
+
+	"Voteban Player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Ban {1}?"
+		"hu"		"Kitiltsuk {1}-t?"
+	}
+	
+	"Vote Successful"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Vote successful. (Received {1}%% of {2} votes)"
+		"hu"		"Sikeres szavazás! (Beérkezett a {2} szavazat {1}%%-a)"
+	}	
+	
+	"Vote Failed"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Vote failed. {1}%% vote required. (Received {2}%% of {3} votes)"
+		"hu"		"Szavazás sikertelen. {1}%% kellett volna. (Beérkezett a {3} szavazat {2}%%-a)"
+	}	
+
+	"Vote End"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"The answer to {1} is: {2}."
+		"hu"		"Válasz a {1} kérdésre: {2}"
+	}
+	"Kick vote"
+	{
+		"en"		"Kick vote"
+		"hu"		"Kirúgás szavazás"
+	}
+
+	"Ban vote"
+	{
+		"en"		"Ban vote"
+		"hu"		"Kititltás szavazás"
+	}
+
+	"Map vote"
+	{
+		"en"		"Map vote"
+		"hu"		"Pályaszavazás"
+	}
+
+	"Confirm Vote"
+	{
+		"en"		"Confirm Vote"
+		"hu"		"Szavazás Megerősítése"
+	}
+	
+	"Please select a map"
+	{
+		"en"		"Please select a map"
+		"hu"		"Kérlek válassz egy pályát"
+	}
+	
+	"Start the Vote"
+	{
+		"en"		"Start the Vote"
+		"hu"		"Szavazás Indítása"
+	}
+}

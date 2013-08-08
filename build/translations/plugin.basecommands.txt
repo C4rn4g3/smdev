@@ -1,0 +1,182 @@
+"Phrases"
+{
+	"Unable to find cvar"
+	{
+		"#format"	"{1:s}"
+		"en"		"Unable to find cvar: {1}"
+		"hu"		"{1} cvar nem található."
+	}
+	
+	"No access to cvar"
+	{
+		"en"		"You do not have access to this cvar."
+		"hu"		"Nincs hozzáférési jogod ehhez a cvarhoz."
+	}
+	
+	"Value of cvar"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Value of cvar \"{1}\": \"{2}\""
+		"hu"		"A cvar \"{1}\" értéke: \"{2}\""
+	}
+	
+	"Cvar changed"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Changed cvar \"{1}\" to \"{2}\"."
+		"hu"		"\"{1}\" cvar megváltoztatva erre: \"{2}\"."
+	}
+	
+	"Config not found"
+	{
+		"#format"	"{1:s}"
+		"en"		"Config file \"{1}\" not found."
+		"hu"		"Nem található {1} nevű beállításfájl."
+	}
+	
+	"Executed config"
+	{
+		"#format"	"{1:s}"
+		"en"		"Executed config \"{1}\"."
+		"hu"		"{1} beállításfájl végrehajtva."
+	}
+
+	"Permabanned player"
+	{
+		"#format"	"{1:s}"
+		"en"		"Permanently banned player \"{1}\"."
+		"hu"		"{1} véglegesen ki lett tiltva."
+	}
+	
+	"Permabanned player reason"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Permanently banned player \"{1}\" (reason: {2})."
+		"hu"		"{1} véglegesen ki lett tiltva. (ok: {2})"
+	}
+	
+	"Banned player"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Banned player \"{1}\" for {2} minutes."
+		"hu"		"{1} {2} percre ki lett tiltva."
+	}
+	
+	"Banned player reason"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"Banned player \"{1}\" for {2} minutes (reason: {3})."
+		"hu"		"{1} {2} percre ki lett tiltva. (ok: {3})"
+	}
+	
+	"Removed bans matching"
+	{
+		"#format"	"{1:s}"
+		"en"		"Removed bans matching filter: {1}"
+		"hu"		"A {1} szűrőnek megfelelő kitiltások el lettek távolítva."
+	}
+	
+	"Ban added"
+	{
+		"en"		"Ban has been added."
+		"hu"		"Kitiltás hozzáadva"
+	}
+	
+	"Admin cache refreshed"
+	{
+		"en"		"Admin cache has been refreshed."
+		"hu"		"Admin gyorsítótár frissítve."
+	}
+	
+	"Identify player"
+	{
+		"en"		"Identify player"
+		"hu"		"Játékos azonosítása"
+	}
+	
+	"Choose Map"
+	{
+		"en"		"Choose Map"
+		"hu"		"Pálya kiválasztása"
+	}
+	
+	"Exec CFG"
+	{
+		"en"		"Exec CFG"
+		"hu"		"CFG végrehajtása"
+	}
+	
+	"Admin logged in as"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"\"{1}\" is logged in as \"{2}\" with access: {3}"
+		"hu"		"{1} bejelentkezve mint {2}, a következő jogosultságokkal: {3}"
+	
+	}
+	
+	"Admin logged in anon"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"\"{1}\" has access: {2}"
+		"hu"		"{1} hozzáférési jogosultságai: {2}"
+	}
+	
+	"Player is not an admin"
+	{
+		"#format"	"{1:s}"
+		"en"		"\"{1}\" is not an admin."
+		"hu"		"{1} nem egy admin."
+	}
+	
+	"Player is an admin"
+	{
+		"#format"	"{1:s}"
+		"en"		"\"{1}\" is an admin."
+		"hu"		"{1} egy admin."
+	}
+	
+	"Username"
+	{
+		"en"		"Username"
+		"hu"		"Felhasználónév"
+	}
+	
+	"Kicked target"
+	{
+		"#format"	"{1:t}"
+		"en"		"Kicked {1}"
+		"hu"		"{1} kirúgva."
+	}
+
+	"Kicked target reason"
+	{
+		"#format"	"{1:t},{2:s}"
+		"en"		"Kicked {1} (Reason: {2})"
+		"hu"		"{1} kirúgva. (Ok: {2})"
+	}
+	
+	"Admin access"
+	{
+		"en"		"Admin access"
+		"hu"		"Admin jogosultság"
+	}
+	
+	"Cvar is now protected"
+	{
+		"#format"	"{1:s}"
+		"en"		"Cvar {1} is now protected."
+		"hu"		"{1} cvar mostantól védett."
+	}
+	
+	"Please select a map"
+	{
+		"en"		"Please select a map"
+		"hu"		"Kérlek válassz egy pályát"
+	}
+	
+	"Choose Config"
+	{
+		"en"		"Choose Config"
+		"en"		"Config Választása"
+	}
+}

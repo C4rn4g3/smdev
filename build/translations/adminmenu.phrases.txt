@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"en"		"Admin Menu"
+		"hu"		"Szavazások"
+	}
+	
+	"Player Commands"
+	{
+		"en"		"Player Commands"
+		"hu"		"Játékos parancsok"
+	}
+
+	"Server Commands"
+	{
+		"en"		"Server Commands"
+		"hu"		"Szerver parancsok"
+	}
+
+	"Voting Commands"
+	{
+		"en"		"Voting Commands"
+		"hu"		"Szavazás parancsok"
+	}
+}
